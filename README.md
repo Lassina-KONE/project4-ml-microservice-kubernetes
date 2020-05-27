@@ -1,5 +1,5 @@
-[![lassina](https://circleci.com/gh/lassina/project4-ml-microservice-kubernetes
-.svg?style=svg)](https://circleci.com/gh/lassina/project4-ml-microservice-kubernetes)
+[![lassina](https://app.circleci.com/gh/lassina/project4-ml-microservice-kubernetes
+.svg?style=svg)](https://app.circleci.com/gh/lassina/project4-ml-microservice-kubernetes)
 
 ## Project Overview
 
