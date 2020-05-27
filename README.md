@@ -1,4 +1,4 @@
-[![Lassina-KONE](https://circleci.com/gh/Lassina-KONE/project4-ml-microservice-kubernetes.svg?style=shield)](https://circleci.com/gh/Lassina-KONE/project4-ml-microservice-kubernetes)
+[![Lassina-KONE](https://circleci.com/gh/Lassina-KONE/project4-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/Lassina-KONE/project4-ml-microservice-kubernetes)
 
 ## Project Overview
 
