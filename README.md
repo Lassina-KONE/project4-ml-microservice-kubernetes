@@ -3,7 +3,7 @@
 
 ## Summary
 ####  Machine Learning Microservice API
-Operationalizing microservices by deploying a machine learning inference API using docker and kubernetes.
+Operationalizing microservices by deploying a machine learning inference API using docker and kubernetes that are elastic and fault tolerant.
 
 ##### Run python scripts and web app
 
